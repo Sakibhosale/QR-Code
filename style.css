@@ -8,7 +8,7 @@ body{
     background-color: 262a2f;
 }
 
-/* .container{
+.container{
     width: 400px;
     padding: 25px 35px;
     position: absolute;
@@ -32,4 +32,4 @@ body{
     padding: 10px;
     margin: 10px 0 20px;
     border-radius: 5px;
-} */
+}
